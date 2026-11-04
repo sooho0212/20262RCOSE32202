@@ -7,3 +7,4 @@ System call: user mode에서 kernel mode로 들어가는 통로
 Trap vs Interrupt: 동기(내 명령어) vs 비동기(외부 장치)
 fork(): process 복제, parent는 child PID / child는 0 반환
 exec(): 현재 process를 새 프로그램으로 교체
+Monolithic kernel vs Microkernel: 성능 vs 안정성
